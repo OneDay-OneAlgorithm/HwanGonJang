@@ -12,3 +12,4 @@
 | 07.09 | 여행 ✈️ |  |  |  |
 | 07.10 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS | 프로그래머스 | LV.3 |
 | 07.11 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP | 프로그래머스 | LV.3 |
+| 07.12 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Greedy | 프로그래머스 | LV.3 |
