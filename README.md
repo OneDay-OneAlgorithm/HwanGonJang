@@ -17,3 +17,5 @@
 | 07.14 | ❌ |  |  |  |
 | 07.15 | [섬연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | Graph | 프로그래머스 | LV.3 |
 | 07.16 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 구현 | 프로그래머스 | LV.3 |
+| 07.17 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | 구현 | 프로그래머스 | LV.3 |
+| 07.18 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
