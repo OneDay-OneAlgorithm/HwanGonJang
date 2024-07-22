@@ -20,3 +20,6 @@
 | 07.17 | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | 구현 | 프로그래머스 | LV.3 |
 | 07.18 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 구현 | 프로그래머스 | LV.3 |
 | 07.19 | [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | 구현 | 프로그래머스 | LV.3 |
+| 07.20 | ❌ |  |  |  |
+| 07.21 | ❌ |  |  |  |
+| 07.22 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 구현 | 프로그래머스 | LV.3 |
