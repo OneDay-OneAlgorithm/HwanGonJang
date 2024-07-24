@@ -23,4 +23,5 @@
 | 07.20 | ❌ |  |  |  |
 | 07.21 | ❌ |  |  |  |
 | 07.22 | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 구현 | 프로그래머스 | LV.3 |
-| 07.23 | [스티커 모으기]](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP | 프로그래머스 | LV.3 |
+| 07.23 | [스티커 모으기](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | DP | 프로그래머스 | LV.3 |
+| 07.24 | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 구현 | 프로그래머스 | LV.3 |
