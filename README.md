@@ -30,3 +30,4 @@
 | 07.27 | ❌ |  |  |  |
 | 07.28 | ❌ |  |  |  |
 | 07.29 | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 구현 | 프로그래머스 | LV.3 |
+| 07.30 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | 이분탐색 | 프로그래머스 | LV.3 |
