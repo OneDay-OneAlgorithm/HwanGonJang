@@ -33,3 +33,4 @@
 | 07.30 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | 이분탐색 | 프로그래머스 | LV.3 |
 | 07.31 | ❌ |  |  |  |
 | 08.01 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | DP | 프로그래머스 | LV.3 |
+| 08.02 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 구현 | 프로그래머스 | LV.3 |
