@@ -34,3 +34,6 @@
 | 07.31 | ❌ |  |  |  |
 | 08.01 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | DP | 프로그래머스 | LV.3 |
 | 08.02 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 구현 | 프로그래머스 | LV.3 |
+| 08.03 | ❌ |  |  |  |
+| 08.04 | ❌ |  |  |  |
+| 08.05 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 구현 | 프로그래머스 | LV.3 |
