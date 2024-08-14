@@ -39,3 +39,4 @@
 | 08.05 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | 구현 | 프로그래머스 | LV.3 |
 | 08.06 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) | 구현 | 프로그래머스 | LV.3 |
 | 08.06 | [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893) | 구현 | 프로그래머스 | LV.3 |
+| 08.06 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | 구현 | 프로그래머스 | LV.3 |
